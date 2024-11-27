@@ -20,11 +20,7 @@
           <br/><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
           </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:yoonseo1265@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:yoonseo1265@gmail.com"> </a>
-          </div>  <br> 
+    </div> 
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
